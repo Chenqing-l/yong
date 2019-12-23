@@ -1,0 +1,32 @@
+.forget_password {
+    height: 100%;
+    width: 100%;
+}
+.forget_password_renzheng {
+    height: 600px;
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.forget_password_renzheng h2 {
+    width: 100%;
+    text-align: center;
+}
+.forget_password_renzheng p {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    margin: 50px 15%;
+}
+.forget_password_renzheng input {
+    width: 100%;
+}
+.forget_password_renzheng button {
+    width: 70%;
+    height: 30px;
+    border: 0;
+    margin-left: 15%;
+    color: white;
+    border-radius: 5px;
+    background: rgb(101, 145, 226);
+}

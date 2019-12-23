@@ -1,0 +1,20 @@
+.Class_Topic {
+    height: 100%;
+    width: 100%;
+}
+.class_poric_nav {
+    height: 130px;
+    text-align: center;
+}
+.class_poric_nav h2 {
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.class_poric_nav h3 {
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

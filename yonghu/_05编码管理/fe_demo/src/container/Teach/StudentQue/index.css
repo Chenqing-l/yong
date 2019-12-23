@@ -1,0 +1,36 @@
+.sutdent_home {
+    height: 100%;
+    width: 100%;
+}
+.sutdent_homePage {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.sutend_btn {
+    position: absolute;
+    top: 16px;
+    left: 10%;
+    width: 120px;
+    background: linear-gradient(270deg, rgba(78, 117, 255, 1) 0%, rgba(1, 57, 253, 1) 100%);
+    color: #ffffff;
+}
+.inp {
+    width: 500px;
+    height: 32px;
+    border: 1px solid #ccc;
+    outline: none;
+    margin-left: 316px;
+    text-indent: 8px;
+}
+.okk {
+    width: 90px;
+    height: 33px;
+    background-color: rgb(165, 165, 197);
+    color: white;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+.diy button:first-child {
+    margin-bottom: 20px;
+}

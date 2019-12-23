@@ -1,0 +1,10 @@
+.Whitout_data {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    margin: 10px;
+}

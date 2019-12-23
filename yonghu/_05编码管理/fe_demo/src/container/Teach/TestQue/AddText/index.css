@@ -1,0 +1,17 @@
+.addtext_home {
+    height: 100%;
+    width: 100%;
+}
+.ant-layout {
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.ant-layout .addtext_btn {
+    position: absolute;
+    top: 11px;
+    left: 10%;
+    width: 120px;
+    background: linear-gradient(270deg, rgba(78, 117, 255, 1) 0%, rgba(1, 57, 253, 1) 100%);
+    color: #ffffff;
+}
